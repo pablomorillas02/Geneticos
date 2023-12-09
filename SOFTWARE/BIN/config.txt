@@ -1,0 +1,12 @@
+Archivos=Ackley.txt
+Semillas=75943965 76943595 95943765 95953764 45935769
+Algoritmos=EvM
+Dimension=10
+Poblacion=50
+Evaluaciones=10000
+Numero de padres=2
+Probabilidad de cruce=0.7
+Probabilidad mutacion=0.01
+k=2
+k Reemplazo=4
+Alfa=0.5
